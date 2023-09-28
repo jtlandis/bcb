@@ -1,0 +1,26 @@
+---
+title: BCB Document
+format:
+  bcb-pdf: default
+---
+
+
+This format embeds `jtlandis/auto-eq` so untagged equations will be provided with an equation number.
+
+$$
+  2 + 2
+$$
+
+By default R code is not echo'ed to the document
+
+```{r}
+2 + 2
+```
+
+```{r}
+#| echo: true
+
+2 + 2
+```
+
+
