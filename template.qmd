@@ -1,0 +1,12 @@
+---
+title: BCB Document
+format:
+  bcb-pdf: default
+---
+
+```{r}
+
+```
+
+
+
