@@ -5,7 +5,9 @@ format:
 ---
 
 ```{r}
-
+#| message: false
+library(dplyr)
+library(tidyr)
 ```
 
 
