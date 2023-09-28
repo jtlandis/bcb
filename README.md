@@ -5,14 +5,14 @@
 *TODO*: Replace the `<github-organization>` with your GitHub organization.
 
 ```bash
-quarto use template <github-organization>/bcb
+quarto use template jtlandis/bcb
 ```
 
 This will install the extension and create an example qmd file that you can use as a starting place for your article.
 
 ## Using
 
-*TODO*: Describe how to use your format.
+A simple format for BCB assignments. By default the template will create a pdf document.
 
 ## Format Options
 
